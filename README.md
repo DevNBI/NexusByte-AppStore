@@ -3,5 +3,10 @@ Welcome to the ***NexusByte AppStore***, a simple WebView application for downlo
 
 ---
 
+### How It Works
+The APK itself is built using Niotron. This repository is used for the front-end (pages, icons, listings, etc). Google Drive is used for actually storing the APK's (we will be swapping to an alternative storage host in the future).
+
+---
+
 ### Contribution
 If you'd like to contribute, feel free to open a pull request! Or if you have any suggestions for applications and games to add, open an issue and suggest them.
